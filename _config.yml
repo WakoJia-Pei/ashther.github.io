@@ -393,9 +393,9 @@ disqus:
 
 # changyan
 changyan:
-  enable: true
-  appid: cytNXXyLz
-  appkey: 46238829ed5dd84313859d3d02f43571
+  enable: false
+  appid: 
+  appkey: 
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
@@ -403,7 +403,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: sunlijun
 
 # Support for gitalk comments system.
 gitalk:
